@@ -1,0 +1,29 @@
+        body{
+            background-color: silver ;
+            margin: 50px;
+        }
+        nav{
+            padding: 20px;
+        }
+
+        .nav{
+            font-size: 20px;
+
+        }
+
+        .container{
+            margin: 50px;
+        }
+        #cardlink{
+            color: antiquewhite;
+        }
+        div.a{
+            text-align: center;
+        }
+
+        #center {
+            padding: 70px 0;
+
+            text-align: center;
+            color: antiquewhite;
+        }
